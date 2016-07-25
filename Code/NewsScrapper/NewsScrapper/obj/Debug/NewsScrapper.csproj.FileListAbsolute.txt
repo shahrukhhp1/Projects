@@ -1,0 +1,17 @@
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\NewsScrapper.exe.config
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\NewsScrapper.exe
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\NewsScrapper.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\ThoughtWorks.Selenium.Core.xml
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\WebDriver.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\WebDriver.xml
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\WebDriver.Support.pdb
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\bin\Debug\WebDriver.Support.xml
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.csprojResolveAssemblyReference.cache
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.Form1.resources
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.Properties.Resources.resources
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.csproj.GenerateResource.Cache
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.exe
+c:\users\hamza\documents\visual studio 2012\Projects\NewsScrapper\NewsScrapper\obj\Debug\NewsScrapper.pdb
